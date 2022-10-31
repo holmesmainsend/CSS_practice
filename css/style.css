@@ -1,4 +1,4 @@
-h2 {
+h2:hover {
     color: darkcyan;
 }
 
@@ -8,4 +8,16 @@ h2 {
 
 #services {
     color: purple;
+}
+
+li:nth-child(2n+0) {
+    color: lightcoral;
+}
+
+#google-link:link {
+    color: dark orangered;
+}
+
+#google-link:visited {
+    color: green;
 }
