@@ -2,12 +2,22 @@ h2:hover {
     color: darkcyan;
 }
 
+h2[class=subtitle] {
+    color: lightgreen;
+}
+
 .subtitle {
     color: yellowgreen;
 }
 
 #services {
     color: purple;
+}
+
+img[src$=".jpg"] {
+    border: dashed;
+    border-width: thick;
+    border-color: lightseagreen;
 }
 
 /* li:nth-child(2n+0) {
