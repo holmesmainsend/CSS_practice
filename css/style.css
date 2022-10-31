@@ -10,14 +10,30 @@ h2:hover {
     color: purple;
 }
 
-li:nth-child(2n+0) {
+/* li:nth-child(2n+0) {
     color: lightcoral;
 }
 
-#google-link:link {
+/* #google-link:link {
     color: dark orangered;
 }
 
 #google-link:visited {
     color: green;
+} */
+
+h2 + a {
+    color: orange;
 }
+
+textarea ~ button {
+    color: green;
+}
+
+ul > li {
+    color: blueviolet;
+}
+
+/* ul li {
+    color: red;
+} */
