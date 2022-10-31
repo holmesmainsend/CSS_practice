@@ -1,11 +1,11 @@
-.title {
-    color: orange;
+h2 {
+    color: darkcyan;
 }
 
 .subtitle {
-    color: magenta;
+    color: yellowgreen;
 }
 
-#contact-us {
-    color: darkcyan;
+#services {
+    color: purple;
 }
