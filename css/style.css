@@ -4,7 +4,10 @@ body {
     text-align: justify;
 }
 
-
+#sunrise-image {
+    height: 400px;
+    width: 60vw;
+}
 
 
 
