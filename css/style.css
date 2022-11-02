@@ -1,4 +1,5 @@
 body {
+    background: linear-gradient(rgba(67, 85, 248, 0.793), rgba(67, 85, 248, 0.2));
     font-family: "Special Elite", sans-serif;
     text-align: justify;
 }
